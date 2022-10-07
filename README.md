@@ -4,6 +4,7 @@
 - composer install
 - .env add TOKEN
 - php artisan migrate
+- php artisan storage:link
 - php artisan config:clear
 - php artisan cache:clear
 - composer dump-autoload
